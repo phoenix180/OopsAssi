@@ -1,0 +1,16 @@
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\bin\Debug\net5.0\OopsAssignment.exe
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\bin\Debug\net5.0\OopsAssignment.deps.json
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\bin\Debug\net5.0\OopsAssignment.runtimeconfig.json
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\bin\Debug\net5.0\OopsAssignment.runtimeconfig.dev.json
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\bin\Debug\net5.0\OopsAssignment.dll
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\bin\Debug\net5.0\OopsAssignment.pdb
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.csproj.AssemblyReference.cache
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.AssemblyInfoInputs.cache
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.AssemblyInfo.cs
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.dll
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\refint\OopsAssignment.dll
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.pdb
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\OopsAssignment.genruntimeconfig.cache
+C:\Users\91770\source\repos\OopsAssignment\OopsAssignment\obj\Debug\net5.0\ref\OopsAssignment.dll
